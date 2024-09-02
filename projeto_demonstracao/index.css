@@ -1,0 +1,21 @@
+label {
+    font-size: 1.1em;
+    display: block;
+}
+
+input {
+    padding: .25em;
+    font-size: 1em;
+}
+
+div.form {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    gap: .5em;
+}
+
+button {
+    cursor: pointer;
+    padding: .25em;
+}
